@@ -3,6 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<p>
+  Hey there! I'm Bhum, a Full Stack Developer rocking more than 6 years of hands-on experience. I play around with a bunch of cool technologies like Next.js, React.js, Vue.js, Nuxt.js, Node.js, Golang, Laravel, HTML, CSS, Typescript and JavaScript. I'm all about delivering top-notch solutions and blending my tech skills with a love for innovation. I've been making some real waves in projects throughout my career – let's create something awesome together!
+</p>
+
 :page_with_curl: I'm currently learning:
 <br><br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
