@@ -6,7 +6,7 @@
 <div align="center">
   <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 </div>
-
+<br/>
 
 <p>
   Hey there! I'm Bhum, a Full Stack Developer rocking more than 6 years of hands-on experience. I play around with a bunch of cool technologies like Next.js, React.js, Vue.js, Nuxt.js, Node.js, Golang, Laravel, HTML, CSS, Typescript and JavaScript. I'm all about delivering top-notch solutions and blending my tech skills with a love for innovation. I've been making some real waves in projects throughout my career – let's create something awesome together!
